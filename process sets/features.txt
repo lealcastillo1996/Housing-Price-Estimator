@@ -1,0 +1,1 @@
+['OverallQual', 'GrLivArea', '2ndFlrSF', 'BsmtFinSF1', 'GarageCars', 'TotRmsAbvGrd', 'TotalBsmtSF', '1stFlrSF', 'YearBuilt', 'ExterQual', 'KitchenQual', 'BsmtQual']
