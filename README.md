@@ -53,3 +53,6 @@ Models proposed:
 A regressor tool for estimating housing sale price was developed from scrath with excelent results, reaching a 88% accuracy in test set. All steps and assumptions were important to reach this result
 
 
+![real-estate-price-market-analysis-concept-house-models-under-magnifier-tool-calculator-214750730.jpeg](attachment:real-estate-price-market-analysis-concept-house-models-under-magnifier-tool-calculator-214750730.jpeg)
+
+
