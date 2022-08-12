@@ -24,5 +24,17 @@ The **objective** of this project is to create an accurate sale price calculatio
 *Note: I could have used ScikitLearn tools such as imputer or Ordinal Encoder, however to add more value to the project and have more control I defined my own cleaning functions*
 
 ### - Feature selection framework
+
+-Use filter algorithms simple methods such as Chi square and Correlation matrix methods to have an initial visualization.
+
+- Different regression embeded methods will be used to determine feature importance and select the best features to feed our models:
+- Linear Regression
+- Decision Tree Regression
+- Random Forest Regression
+- XgBoost Regression
+- Permutation Regression
+
+*I propose 2 ways of selecting best features, one is simply selecting the top occurrences total sum of the counts, the second one is selecting the the features that appeared as a top in at least 2 different models*
+
 ### - Model selection, training and tunning
 ### - Results summary
