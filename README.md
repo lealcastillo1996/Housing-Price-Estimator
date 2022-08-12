@@ -21,7 +21,7 @@ The **objective** of this project is to create an accurate sale price calculatio
 - Splitting data into train and test set with stratified sampling tecnique to preserve distributions found in the housing data
 - Creation of an advanced custom transformation pipeline with helpfull tools such as: median imputer, log normalization, custom column modifiers, rare category handler, NaN dropper, categoric variable encoder and variables scaler. (to clean and transform in a fast way future raw sets)
 
-Note: I could have used ScikitLearn tools such as imputer or Ordinal Encoder, however to add more value to the project and have more control I defined my own cleaning functions
+*Note: I could have used ScikitLearn tools such as imputer or Ordinal Encoder, however to add more value to the project and have more control I defined my own cleaning functions*
 
 ### - Feature selection framework
 ### - Model selection, training and tunning
